@@ -10,7 +10,7 @@ namespace FirstApp
         public App()
         {
             InitializeComponent();
-
+            
             MainPage = new MainPage();
         }
 
